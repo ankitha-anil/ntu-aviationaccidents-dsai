@@ -2,7 +2,7 @@
 
 This project was made for Introduction to Data Science and Artificial Intelligence course.
 
-Collaborated with group members and chose the Aviaition Accident dataset to formulate an interesting problem and solve through machine learning.
+Collaborated with group members and chose the Aviation Accident dataset to formulate an interesting problem and solve through machine learning.Used jupyter notebook and python to formulate the solution.
 
 - Question: Which of the factors (Broad Phase of Flight, Purpose of Flight, Weather Condition) have the largest importance in the classification of severity of accidents?
 
