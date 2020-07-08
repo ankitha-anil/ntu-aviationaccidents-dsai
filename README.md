@@ -12,4 +12,4 @@ Collaborated with group members and chose the Aviaition Accident dataset to form
   - Used a plotly mapbox to visualise the accidents and number of fatalities using a world map and gradient scale to check severity of fatalities.
   - Used anomalies with location (latitude and longitude) along with the number of fatalities in a 3-d plot to check anomalies together. 
 
-Refer to fe2t01.ipynb for code.
+Refer to FE2T01_.ipynb for code.
